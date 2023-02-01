@@ -27,7 +27,7 @@ experiments were completed was that these codes could run first in the c languag
 hardware (Xilinx Zynq-7000 SoC Architecture). We were not successful because of the code conversion 
 and algorithm we experienced during these stages. 
 
-**Therefore, this project could not be completed successfully.**
+**Increased accuracy and speed of project in MATLAB and C. Implementation to the embedded system could not finished.**
 
 **ESKISEHIR TECHNICAL UNIVERSITY**
 
